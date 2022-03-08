@@ -9,5 +9,4 @@ _This is an image of a Samoyed_
 
 Nice contribution.
 =======
-_Hello! **This is an edit**_
->>>>>>> 30f70de30eabec3cb404b4badc03898966730370
+_Hello! **This is an edit**
